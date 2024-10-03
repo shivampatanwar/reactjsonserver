@@ -1,0 +1,44 @@
+{
+  "student": [
+    {
+      "id": "f916",
+      "name": "Shivam Patanwar",
+      "email": "shivampatanwar@gmail.com",
+      "phone": "09685430664",
+      "address": "Khanda, Bilaspur, Chhattisgarh",
+      "course": "Java"
+    },
+    {
+      "id": "1919",
+      "name": "Shivam Patanwar",
+      "email": "shivampatanwar@gmail.com",
+      "phone": "09685430664",
+      "address": "Khanda, Bilaspur, Chhattisgarh",
+      "course": "Java"
+    },
+    {
+      "id": "ed36",
+      "name": "Shivam Patanwar",
+      "email": "shivampatanwar@gmail.com",
+      "phone": "09685430664",
+      "address": "Khanda, Bilaspur, Chhattisgarh",
+      "course": "Java"
+    },
+    {
+      "id": "c8a3",
+      "name": "Shivam Patanwar",
+      "email": "shivampatanwar@gmail.com",
+      "phone": "09685430664",
+      "address": "Khanda, Bilaspur, Chhattisgarh",
+      "course": "Java"
+    },
+    {
+      "id": "d0cf",
+      "name": "Shivam Patanwar",
+      "email": "shivampatanwar@gmail.com",
+      "phone": "09685430664",
+      "address": "Khanda, Bilaspur, Chhattisgarh",
+      "course": "Java"
+    }
+  ]
+}

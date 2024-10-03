@@ -1,0 +1,125 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#message{
+    position: absolute;
+    top: 20px;
+    right: 30px;
+    background-color: #1e8021;
+    padding: 5px 10px;
+    width: 300px;
+    color: white;
+    display: none;
+
+    p{
+        font-size: 20px;
+        font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    }
+
+    button{
+        background-color: transparent;
+        width: 20px;
+        position: relative;
+        right: 0;
+    }
+}
+
+#parent1{
+    width: 100%;
+    padding: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.parent{
+    width: 100%;
+    padding: 50px;
+
+
+    form{
+        width: 300px;
+        padding: 20px;
+
+        div{
+            display: flex;
+            flex-direction: column;
+
+            label{
+                margin-bottom: 5px;
+            }
+
+            input{
+                padding: 5px 10px;
+                margin-bottom: 10px;
+                border-radius:3px ;
+                border: 1px solid black;
+            }
+
+            button{
+                padding: 10px 20px;
+                background-color: #1e8021;
+                color: white;
+                border: none;
+                border-radius: 5px;
+                cursor: pointer;
+                
+            }
+        }
+    }
+
+    table{
+        width: 97%;
+        border-collapse: collapse;
+        margin: 50px auto;
+      
+
+        th{
+            background-color: #30880ecc;
+            padding: 10px;
+            border: 1px solid black;
+        }
+
+        td{
+            padding: 5px;
+            border: 1px solid black;
+            font-size: 17px;
+            font-family: sans-serif;
+
+            button{
+                padding: 6px 15px;
+                color: white;
+                border: none;
+                border-radius: 3px;
+                cursor: pointer;
+                font-size: 15px;
+                font-weight: 700;
+
+
+            }
+
+            
+        }
+
+        .edit{
+            text-align: center;
+            button{
+                background-color: #0b6b0e;
+            }
+
+        }
+
+        .delete{
+            text-align: center;
+            button{
+                background-color: #f30611;
+            }
+            
+        }
+
+
+    }
+}
